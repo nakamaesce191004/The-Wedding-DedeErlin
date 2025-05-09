@@ -1,0 +1,68 @@
+{
+  "application": {
+    "name": "The wedding of Dede Suhendar & Erlin Naila Zahra",
+    "description": "The wedding of Dede Suhendar & Erlin Naila Zahra. Minggu, 1 Juni 2025",
+    "version": "1.0.0"
+  },
+  "wedding": {
+    "akad": {
+      "tanggal": "Minggu, 1 Juni 2025",
+      "jam": "08.00 WIB - Selesai",
+      "lokasi": "Kediaman mempelai wanita",
+      "alamat": "Cirapuhan, Kabupaten Garut, Jawa Barat",
+      "gmaps": {
+        "link": "https://maps.app.goo.gl/ugVpwF3BCtpnh14f8",
+        "iframeSrc":"https:www.google.com/maps/embed?pb=!1m13!1m8!1m3!1d3960.1327406475375!2d108.0306891642884!3d-6.9936433312898965!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zNsKwNTknMzYuNiJTIDEwOMKwMDEnNTkuMiJF!5e0!3m2!1sid!2sid!4v1746793292222!5m2!1sid!2sid"
+      }
+    },
+    "resepsi": {
+      "tanggal": "Minggu, 1 Juni 2025",
+      "jam": "10.00 WIB - Selesai",
+      "lokasi": "Kediaman mempelai wanita",
+      "alamat": "Cirapuhan, Kabupaten Garut, Jawa Barat",
+      "gmaps": {
+        "link": "https://maps.app.goo.gl/ugVpwF3BCtpnh14f8",
+        "iframeSrc":"https:www.google.com/maps/embed?pb=!1m13!1m8!1m3!1d3960.1327406475375!2d108.0306891642884!3d-6.9936433312898965!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zNsKwNTknMzYuNiJTIDEwOMKwMDEnNTkuMiJF!5e0!3m2!1sid!2sid!4v1746793292222!5m2!1sid!2sid"
+      }
+    },
+    "mempelai": {
+      "pria": {
+        "namaDepan": "Dede",
+        "namaBelakang": "Suhendar",
+        "namaPanggilan": "Kana",
+        "orangTua": {
+          "keterangan": "Putra terakhir dari keluarga",
+          "pria": "Misri (Alm)",
+          "wanita": "Unah"
+        },
+        "foto": "/assets/images/mempelai/kana.jpg",
+        "bg": "rgb(229, 229, 203)"
+      },
+      "wanita": {
+        "namaDepan": "Erlin",
+        "namaBelakang": "Naila Zahra",
+        "namaPanggilan": "Erlin",
+        "orangTua": {
+          "keterangan": "Putri pertama dari keluarga",
+          "pria": "Aj. Aan Abdurrouf ",
+          "wanita": "Ibu Eulis Komariah"
+        },
+        "foto": "/assets/images/mempelai/erlin.jpg",
+        "bg": "rgb(213, 206, 163)"
+      }
+    }
+  },
+  "hero": {
+    "dua": "/assets/images/hero/dua.png"
+  },
+  "galeri": [
+    "/assets/images/galeri/galeri-01.webp",
+    "/assets/images/galeri/galeri-02.webp",
+    "/assets/images/galeri/galeri-03.webp",
+    "/assets/images/galeri/galeri-04.webp",
+    "/assets/images/galeri/galeri-05.webp",
+    "/assets/images/galeri/galeri-06.webp",
+    "/assets/images/galeri/galeri-07.webp",
+    "/assets/images/galeri/galeri-08.webp"
+  ]
+}
