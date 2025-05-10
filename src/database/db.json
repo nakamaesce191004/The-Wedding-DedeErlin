@@ -12,7 +12,7 @@
       "alamat": "Cirapuhan, Kabupaten Garut, Jawa Barat",
       "gmaps": {
         "link": "https://maps.app.goo.gl/ugVpwF3BCtpnh14f8",
-        "iframeSrc":"https:www.google.com/maps/embed?pb=!1m13!1m8!1m3!1d3960.1327406475375!2d108.0306891642884!3d-6.9936433312898965!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zNsKwNTknMzYuNiJTIDEwOMKwMDEnNTkuMiJF!5e0!3m2!1sid!2sid!4v1746793292222!5m2!1sid!2sid"
+        "iframeSrc": "https:www.google.com/maps/embed?pb=!1m13!1m8!1m3!1d3960.1327406475375!2d108.0306891642884!3d-6.9936433312898965!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zNsKwNTknMzYuNiJTIDEwOMKwMDEnNTkuMiJF!5e0!3m2!1sid!2sid!4v1746793292222!5m2!1sid!2sid"
       }
     },
     "resepsi": {
@@ -22,7 +22,7 @@
       "alamat": "Cirapuhan, Kabupaten Garut, Jawa Barat",
       "gmaps": {
         "link": "https://maps.app.goo.gl/ugVpwF3BCtpnh14f8",
-        "iframeSrc":"https:www.google.com/maps/embed?pb=!1m13!1m8!1m3!1d3960.1327406475375!2d108.0306891642884!3d-6.9936433312898965!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zNsKwNTknMzYuNiJTIDEwOMKwMDEnNTkuMiJF!5e0!3m2!1sid!2sid!4v1746793292222!5m2!1sid!2sid"
+        "iframeSrc": "https:www.google.com/maps/embed?pb=!1m13!1m8!1m3!1d3960.1327406475375!2d108.0306891642884!3d-6.9936433312898965!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zNsKwNTknMzYuNiJTIDEwOMKwMDEnNTkuMiJF!5e0!3m2!1sid!2sid!4v1746793292222!5m2!1sid!2sid"
       }
     },
     "mempelai": {
@@ -45,7 +45,7 @@
         "orangTua": {
           "keterangan": "Putri pertama dari keluarga",
           "pria": "Aj. Aan Abdurrouf ",
-          "wanita": "Ibu Eulis Komariah"
+          "wanita": "Eulis Komariah"
         },
         "foto": "/assets/images/mempelai/erlin.jpg",
         "bg": "rgb(213, 206, 163)"
@@ -56,13 +56,13 @@
     "dua": "/assets/images/hero/dua.png"
   },
   "galeri": [
-    "/assets/images/galeri/galeri-01.webp",
-    "/assets/images/galeri/galeri-02.webp",
-    "/assets/images/galeri/galeri-03.webp",
-    "/assets/images/galeri/galeri-04.webp",
-    "/assets/images/galeri/galeri-05.webp",
-    "/assets/images/galeri/galeri-06.webp",
-    "/assets/images/galeri/galeri-07.webp",
-    "/assets/images/galeri/galeri-08.webp"
+    "/assets/images/galeri/2.jpg",
+    "/assets/images/galeri/1.jpg",
+    "/assets/images/galeri/4.jpg",
+    "/assets/images/galeri/3.jpg",
+    "/assets/images/galeri/4.jpg",
+    "/assets/images/galeri/2.jpg",
+    "/assets/images/galeri/3.jpg",
+    "/assets/images/galeri/5.jpg"
   ]
 }

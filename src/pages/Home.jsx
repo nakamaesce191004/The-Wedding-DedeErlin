@@ -35,9 +35,9 @@ const Home = () => {
         <Lokasi />
       </section>
 
-      {/* <section id="">
+      <section id="">
         <Galeri />
-      </section> */}
+      </section>
 
       <footer id="footer">
         <Footer />
