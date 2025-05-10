@@ -10,7 +10,7 @@ const Lokasi = () => {
   return (
     <Box
       sx={{
-        py: 5,
+        py: 15,
         backgroundColor: "text.secondary",
       }}
     >
@@ -24,7 +24,7 @@ const Lokasi = () => {
           src={gmaps.iframeSrc}
           sx={{
             width: "100%",
-            height: 450,
+            height: 500,
             border: 0,
             borderColor: "divider",
             borderRadius: 1,
